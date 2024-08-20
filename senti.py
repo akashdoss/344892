@@ -1,3 +1,7 @@
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
+
 import streamlit as st
 from textblob import TextBlob
 
